@@ -14,7 +14,7 @@
     "markdown-it": "^12.0.0",
     "markdown-it-anchor": "^7.1.0",
     "html-minifier": "^4.0.0",
-    "eleventy-plugin-embed-everything": "^1.11.0",
+    "eleventy-plugin-embed-everything": "^1.13.2",
     "eleventy-charts": "^1.0.3"
   },
   "engines": {
